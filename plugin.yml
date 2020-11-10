@@ -1,0 +1,13 @@
+name: Hub
+main: MulkiAqi192\Hub\Main
+author: MulkiAqi192
+api: [3.12.0, 3.12.2]
+version: 1.0
+
+commands:
+  hub:
+    description: "Teleport you to main lobby"
+  lobby:
+    description: "Teleport you to main lobby"
+  spawn:
+    description: "Teleport you to main lobby"
